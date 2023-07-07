@@ -1,3 +1,5 @@
+Fork from https://github.com/alejandro-ao/langchain-ask-pdf.git 
+
 # Langchain Ask PDF (Tutorial)
 
 >You may find the step-by-step video tutorial to build this application [on Youtube](https://youtu.be/wUAUdEw5oxM).
